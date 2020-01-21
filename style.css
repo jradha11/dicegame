@@ -1,0 +1,22 @@
+body{
+  background-color: #192965;
+  color: #f0efef;
+  text-align: center;
+  padding: 10%;
+}
+
+.player{
+  font-size: 2em;
+  margin-bottom: 40px;
+}
+
+.result{
+  font-size: 4em;
+}
+.col-lg-6{
+  padding: 20px;
+}
+
+#player1img, #player2img{
+  width: 40%;
+}
